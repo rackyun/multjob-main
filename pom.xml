@@ -12,6 +12,7 @@
         <connection>scm:ssh://git@github.com:rackyun/multjob-main.git</connection>
         <url>https://github.com/rackyun/multjob-main</url>
         <developerConnection>scm:git:ssh://git@github.com:rackyun/multjob-main.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
 </project>

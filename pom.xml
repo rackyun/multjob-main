@@ -13,4 +13,16 @@
         <tag>v0.1.0</tag>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>central</id>
+            <name>Internal Releases</name>
+            <url>http://172.16.1.40:8081/nexus/content/repositories/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>Internal Snapshots</name>
+            <url>172.16.1.40:8081/nexus/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>

@@ -7,9 +7,9 @@
     <packaging>jar</packaging>
 
     <scm>
-        <connection>scm:https://github.com/rackyun/multjob-main.git</connection>
+        <connection>scm:ssh://git@github.com:rackyun/multjob-main.git</connection>
         <url>https://github.com/rackyun/multjob-main</url>
-        <developerConnection>scm:git:https://github.com/rackyun/multjob-main.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com:rackyun/multjob-main.git</developerConnection>
         <tag>v0.1.0</tag>
     </scm>
 
